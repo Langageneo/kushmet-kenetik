@@ -1,4 +1,6 @@
 # 🌍 Témoins du Réveil
+![KUSH-KÉNÉTIK Animation](./kush-kenetik-animated.gif)
+
 ![GitHub stars](https://img.shields.io/github/stars/langageneo/kush-kenetik?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/langageneo/kush-kenetik?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/langageneo/kush-kenetik)
