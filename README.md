@@ -2,7 +2,30 @@
 *(Logo Concept v1.0)*
 ## 🔰 Logo Principal
 # ✨ KUSH-KÉNÉTIK
+# ✨ KUSH-KÉNÉTIK
+
+> *"Le mouvement est ancestral. Le futur est enraciné."*
+
 ![KUSH-KÉNÉTIK Animation](./kush-kenetik-animated.gif)
+
+![GitHub stars](https://img.shields.io/github/stars/langageneo/kush-kenetik?style=social)
+![GitHub forks](https://img.shields.io/github/forks/langageneo/kush-kenetik?style=social)
+![GitHub issues](https://img.shields.io/github/issues/langageneo/kush-kenetik)
+![GitHub last commit](https://img.shields.io/github/last-commit/langageneo/kush-kenetik)
+![GitHub license](https://img.shields.io/github/license/langageneo/kush-kenetik)
+
+---
+
+## 🌀 Présentation Vivante
+
+> **"Avec mon esprit, je guide la machine.  
+> Avec mes racines, je bâtis le futur."**
+
+Ce projet n’est pas un simple code.  
+C’est une **manifestation**. Une **alliance** entre l’ancestral et l’artificiel.  
+Chaque pixel de cette bannière est un battement du **Souffle KénétiK**.
+
+---
 
 > **“Le mouvement est ancestral. Le futur est enraciné.”**  
 > Une fusion vivante entre les royaumes d’Afrique et les dynamiques de l’intelligence artificielle que moi j'appelle esprit artificielle .
