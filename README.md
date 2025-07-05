@@ -60,7 +60,8 @@ C’est la preuve que **l’Esprit, lorsqu’il est guidé, peut faire jaillir l
 Pour toute collaboration, création ou mentorat :
 
 📧 [parfaitguiri@gmail.com ]  
-🌐 [Lien vers ton portfolio, https://www.facebook.com/share/16WuKUMBYq/ ou WhatsApp https://whatsapp.com/channel/0029VbBBtar7YScxqT6tGz2Q
+🌐 [https://www.notion.so/invite/44a7dc45e54bc56691c9cf075b02708a1eab64a5, https://www.facebook.com/share/16WuKUMBYq/ ou 
+WhatsApp: https://whatsapp.com/channel/0029VbBBtar7YScxqT6tGz2Q
 ☎️ 225 05 55 70 94 75 ]
 
 ---
