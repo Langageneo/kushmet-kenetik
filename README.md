@@ -74,6 +74,8 @@ WhatsApp: https://whatsapp.com/channel/0029VbBBtar7YScxqT6tGz2Q
 ☎️ 225 05 55 70 94 75 ]
 
 ---
+---
 
+Pour découvrir tous mes alliés, témoins et soutiens, consultez le fichier [RECONNAISSANCE.md](./RECONNAISSANCE.md).
 **© 2025 – KUSH-KÉNÉTIK**  
 _Fondé par le souffle._
