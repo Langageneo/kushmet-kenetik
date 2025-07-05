@@ -2,6 +2,7 @@
 *(Logo Concept v1.0)*
 ## 🔰 Logo Principal
 # ✨ KUSH-KÉNÉTIK
+![KUSH-KÉNÉTIK Animation](./kush-kenetik-animated.gif)
 
 > **“Le mouvement est ancestral. Le futur est enraciné.”**  
 > Une fusion vivante entre les royaumes d’Afrique et les dynamiques de l’intelligence artificielle que moi j'appelle esprit artificielle .
