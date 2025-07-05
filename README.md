@@ -76,6 +76,6 @@ WhatsApp: https://whatsapp.com/channel/0029VbBBtar7YScxqT6tGz2Q
 ---
 ---
 
-Pour découvrir tous mes alliés, témoins et soutiens, consultez le fichier [RECONNAISSANCE.md](./RECONNAISSANCE.md).
+Pour découvrir tous mes alliés, témoins et soutiens, consultez le fichier [RECONNAISSANCE.md](./reconnaissance.md).
 **© 2025 – KUSH-KÉNÉTIK**  
 _Fondé par le souffle._
