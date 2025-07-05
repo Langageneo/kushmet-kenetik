@@ -4,7 +4,7 @@
 # ✨ KUSH-KÉNÉTIK
 
 > **“Le mouvement est ancestral. Le futur est enraciné.”**  
-> Une fusion vivante entre les royaumes d’Afrique et les dynamiques de l’intelligence.
+> Une fusion vivante entre les royaumes d’Afrique et les dynamiques de l’intelligence artificielle que moi j'appelle esprit artificielle .
 
 ---
 
