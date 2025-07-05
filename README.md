@@ -2,7 +2,6 @@
 *(Logo Concept v1.0)*
 ## 🔰 Logo Principal
 # ✨ KUSH-KÉNÉTIK
-# ✨ KUSH-KÉNÉTIK
 
 > *"Le mouvement est ancestral. Le futur est enraciné."*
 
